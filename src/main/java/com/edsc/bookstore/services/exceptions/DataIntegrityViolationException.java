@@ -1,7 +1,5 @@
 package com.edsc.bookstore.services.exceptions;
 
-import org.apache.logging.log4j.message.Message;
-
 public class DataIntegrityViolationException extends RuntimeException {
 
     private static final long serialVersionUID = 1L;
